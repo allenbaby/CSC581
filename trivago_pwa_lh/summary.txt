@@ -1,0 +1,11 @@
+﻿URL:  https://www.trivago.com
+Runs: 10
+
+=== Scores (0-1, Lighthouse style) ===
+Performance score avg: 
+PWA score avg:         
+
+=== Timing metrics (ms) ===
+FCP avg (first-contentful-paint):   2411.16
+LCP avg (largest-contentful-paint): 6728.35
+TTI avg (interactive):              19023.96

@@ -1,0 +1,10 @@
+﻿Package:  com.trivago
+Activity: .ft.splash.frontend.SplashActivity
+Runs:     10
+
+All TotalTime values (ms):
+384, 370, 368, 407, 362, 364, 376, 370, 357, 350
+
+Min: 350 ms
+Max: 407 ms
+Avg: 370.8 ms

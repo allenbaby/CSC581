@@ -1,0 +1,7 @@
+﻿Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.trivago/.ft.splash.frontend.SplashActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.trivago/.ft.splash.frontend.SplashActivity
+TotalTime: 407
+WaitTime: 408
+Complete
